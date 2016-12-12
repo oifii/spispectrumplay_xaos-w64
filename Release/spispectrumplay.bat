@@ -1,0 +1,4 @@
+rem start spispectrumplay.exe testwav.wav 10 200 200 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 1 100
+rem start spispectrumplay.exe "D:\oifii-org\httpdocs\ha-org\had\dj-oifii\house_wav\dj-oifii_heavyhouse(Shivers-Armin van Buuren)_007.w64" 3600 100 100 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 1 100 2000 800
+start spispectrumplay.exe "D:\oifii-org\httpdocs\ha-org\had\dj-oifii\house_wav\dj-oifii_heavyhouse(Shivers-Armin van Buuren)_007.w64" 120 100 100 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 5 100 2000 800 150
+rem start spispectrumplay.exe "testwav.wav" 120 100 100 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 1 100 2000 800
